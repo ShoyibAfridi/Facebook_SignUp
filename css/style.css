@@ -1,0 +1,254 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+header {
+	background-color: #336699;
+	padding: 15px 0;
+}
+
+.logo {
+	width: 60%;
+	float: left;
+}
+
+.logo img {
+	width: 25%;
+	margin-top: 2.5%;
+}
+
+.form_area {
+	width: 40%;
+	float: right;
+}
+
+.form_area label {
+    color: white;
+    font-size: 15px;
+    margin-bottom: 8px;
+    display: block;
+    font-weight: bold;
+}
+.login_first {
+	float: left;
+}
+.login_second {
+	float: left;
+}
+
+.login_second a {
+	color: #b3cce6;
+    font-weight: 400;
+    margin-top: 5px;
+    display: block;
+    text-decoration: none;
+}
+.login_second a:hover{
+	color: #fff;
+	transition: 0.2s ease;	
+}
+
+
+.login_submit  {
+	float: left;
+	margin-top: 24px;
+}
+
+form input {
+	display: block;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+button {
+	padding: 5px;
+    background-color: #3973ac;
+    border: 1px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+	display: inline-block;
+	background-color: #3973ac;
+	border: 1px solid #4d4d4d;
+	cursor: pointer;
+}
+.btn:hover{
+	background-color: #336699;
+	color: #fff;
+	transition: 0.1s ease;
+}
+
+.left {
+	width: 60%;
+	float: left;
+}
+
+.left h2 {
+	margin: 40px 0;
+	font-size: 20px;
+}
+
+.right {
+	width: 40%;
+	float: right;
+}
+
+.right h2 {
+	margin-top: 35px;
+	font-size: 40px;
+}
+
+.right p {
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+.first {
+	overflow: hidden;
+	margin: 10px 0;
+}
+
+.first_left {
+	width: 45%;
+    float: left;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.first_right {
+	width: 45%;
+    float: left;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.second input{
+	width: 93%;
+	padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.third input{
+	width: 93%;
+	padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+.fourth input{
+	width: 93%;
+	padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.birthday label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #90949c;
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+.birthday input {
+    padding: 5px 0;
+    font-size: 16px;
+}
+
+.gender label {
+	
+display: block;
+	
+margin: 20px 0;
+	
+font-size: 20px;
+	
+font-weight: bold;
+	
+color: #90949c;
+}
+
+.gender input {
+	display: inline-block;
+	
+}
+
+.gender span {
+	font-size: 20px;
+}
+
+.clicking p {
+	font-size: 15px;
+	color: #777;
+	margin: 15px 0;
+}
+
+.clicking a {
+	text-decoration: none;
+}
+
+.new_btn button {
+	padding: 12px 80px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.page p {
+	font-size: 18px;
+	margin: 30px 0;
+	color: #666;
+	font-weight: bold;
+}
+
+.page a {
+	text-decoration: none;
+}
+
+footer {
+	margin: 40px 0;
+}
+
+footer ul {
+	margin-bottom: 15px;
+}
+
+footer ul li {
+	display: inline-block;
+    padding-right: 15px;
+}
+
+.settings li {
+	margin-top: 8px;
+    font-size: 17px;
+}
+
+footer ul li a {
+	text-decoration: none;
+}
+
+h4 {
+	color: #4d79ff;
+}
+
+
+
+
+/**End**/
+
